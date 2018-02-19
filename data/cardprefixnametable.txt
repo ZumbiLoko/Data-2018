@@ -1,525 +1,521 @@
 1001#Mascot#
-4001#Lucky#
+4001#da Fortuna#
 4002#Vital#
-4003#Hard#
-4004#Dexterous#
-4005#Hallowed#
-4006#Lucky#
-4007#Beholder#
-4008#Extra#
-4009#Light#
-4010#Wise#
-4011#Dynamic#
-4012#Rigid#
-4013#Excellent#
-4014#of Champion#
-4015#Quick#
-4016#Speedy#
-4017#Stun#
-4018#Smart#
-4019#Martyr#
-4020#Blink#
-4021#Skillful#
-4022#of Spore#
-4023#of Desert#
-4024#Drowsy#
-4025#Keen#
-4026#Shrewd#
-4027#Athletic#
-4028#Double-forced#
-4029#Wolverine#
-4030#Windy#
-4031#of Mars#
-4032#of Athena#
-4033#Detoxication#
-4034#Clever#
-4035#Bloody#
-4036#Robust#
-4037#Untouchable#
-4038#Healthy#
-4039#of Aristotle#
-4040#Teleport#
-4041#of Sandman#
-4042#of Heman#
-4043#Hurricane#
-4044#Hiding#
-4045#Heavy#
-4046#of Cleric#
-4047#Ghost#
-4048#Poison#
-4049#Flammable#
-4050#of Hermes#
-4051#of Flash#
-4052#Erudite#
-4053#Healing#
-4054#Holy#
-4055#Ice#
-4056#of Warmth#
-4057#Silence#
-4058#Cranial#
-4059#of Cadi#
-4060#Clamorous#
-4061#Immortal#
-4062#Envenom#
-4063#Insecticide#
-4064#Nimble#
-4065#Underneath#
-4066#Brutal#
-4067#Atomic#
-4068#Chemical#
-4069#Saharic#
-4070#of Witch#
-4071#Angelic#
-4072#Solid#
-4073#Discount#
-4074#of Gargantua#
-4075#Hypnotic#
-4076#Cursing#
-4077#Under a Cast#
-4078#of Recovery#
-4079#of Muscle#
-4080#Fisher#
-4081#Glorious#
-4082#Gigantic#
-4083#Homer's#
-4084#Blast#
-4085#Damned#
-4086#Critical#
-4087#Order#
-4088#Guard#
-4089#Aqua#
-4090#Amulet#
-4091#of Counter#
-4092#Boned#
-4093#Cure#
-4094#Kingbird#
-4095#Genie's#
-4096#Venomer's#
-4097#Green#
-4098#of Zephyrus#
-4099#of Ifrit#
-4100#Soul-Enchanted#
-4101#of Gnome#
-4102#Mocking#
-4103#Clairvoyant#
-4104#Chaos#
-4105#Unfrozen#
-4106#Ancient#
-4107#Fledged#
-4108#Innoxious#
-4109#Flameguard#
-4110#Viper's#
-4111#Decussate#
-4112#Peerless#
-4113#of Ghost#
-4114#Poisoning#
-4115#Malicious#
-4116#Divine#
-4117#Hybrid#
-4118#Dragoon#
-4119#Evil#
-4120#of Dragoon#
-4121#Perfect#
-4122#Adurate#
-4123#Bearer's#
-4124#Plasterer's#
-4125#Aqua#
-4126#Titan#
-4127#Insomniac#
-4128#of Deaf#
-4129#of Rogue#
-4130#Divine#
-4131#Hasty#
-4132#of Gemstone#
-4133#Immune#
-4134#Spiritual#
-4135#Mirror#
-4136#from Hell#
-4137#of Infinity#
-4138#Satanic#
-4139#of Moonlight#
-4140#Liberation#
-4141#Deadly#
-4142#of Berserk#
-4143#Neutral#
-4144#of Eternity#
-4145#of Bigmouth#
-4146#Reflect#
-4147#Scythe-like#
-4148#of Kirin#
-4149#of Serenity#
-4150#Spell-Proof#
-4151#Havoc Bringer's#
-4152#Sprightly#
-4153#of Cancer#
-4154#Sweet Scented#
-4155#Deadly Goblin's#
-4156#of Fatal Flame#
-4157#Piercing#
-4158#Slaughter#
-4159#Deluxe#
-4160#Superior#
-4161#Anti-Magic#
-4162#Sightless#
-4163#Wild#
-4164#Fisherman's#
-4165#of Insect Soul Eater#
-4166#of Jinx#
-4167#of Beast Soul Eater#
-4168#of Doom#
-4169#Spell Master's#
-4170#Solidifying#
-4171#Soul Draining#
-4172#Slicing#
-4173#Mesmerizing#
-4174#Deviant#
-4175#Shoving#
-4176#Fatal Serpentine#
-4177#Green Stone#
-4178#Bow-Master's#
-4179#of Highlight#
-4180#of Dragon Soul Eater#
-4181#Soundless#
-4182#of Demon Soul Eater#
-4183#Werewolf#
-4184#Crushing#
-4185#of Wisdom#
-4186#Strenuous#
-4187#of the Spooky Night#
-4188#Red Stone#
-4189#of Misfortune#
-4190#of Last Laugh#
-4191#of the Stix#
-4192#of Fatal Pisces#
-4193#of Patience#
-4194#Overpowering#
-4195#Blue Stone#
-4196#of Jellopy#
-4197#Lucky Streak#
-4198#of True Sight#
-4199#Dashing#
-4200#of Mystical Resistance#
-4201#Crippling#
-4202#of Exorcism#
-4203#Blazing#
-4204#Poacher's#
-4205#Blue Cubic#
-4206#Cubic#
-4207#Anti-Small#
-4208#Energetic#
-4209#Fiddler's#
-4210#Pressure#
-4211#Virtuoso's#
-4212#of Knock-Back#
-4213#of Reticence#
-4214#Man-Eater's#
-4215#Rationing#
-4216#Freezing#
-4217#Rejuvenating#
-4218#Nightmarish#
-4219#Magic Stone#
-4220#Faithful#
-4221#Insect Collector's#
-4222#of Sleep#
-4223#Stun-Proof#
-4224#Monsoon#
-4225#Slingshot#
-4226#Supreme#
-4227#Roast Scented#
-4228#of Siesta#
-4229#of Torment#
-4230#Coward's#
-4231#Charging#
-4232#Refreshing#
-4233#Lucky Fluke#
-4234#of Clarity#
-4235#Fallen Angel's#
-4236#Protective#
-4237#of Godly Wrath#
-4238#of Doubled Power#
-4239#Veteran Hunter's#
-4240#Magic-Proof#
-4241#Miraculous#
-4242#Prime#
-4243#of Escape#
-4244#Seeker's#
-4245#Assassinator's#
-4246#Killing#
-4247#Starfish's#
-4248#Shining Cross#
-4249#Witch Doctor's#
-4250#Anti-Large#
-4251#Invasion#
-4252#Four Leaf Clover#
-4253#of Royal Guard#
-4254#Anti-Medium#
-4255#Smashing#
-4256#Desirable#
-4257#Wing#
-4258#Prodigy#
-4259#of Nature#
-4260#Confusion Resistant#
-4261#Bleed Resistant#
-4262#Dark Sky#
-4263#Bloodlust#
-4264#Thunderbolt#
-4265#of Dawn#
-4266#Magic Resistant#
-4267#Dragon Slayer's#
-4268#Extending#
-4269#Fatasm#
-4270#of Venom#
-4271#Yellow Stone#
-4272#Swift#
-4273#Shell#
-4274#of Undead Soul Eater#
-4275#Undead Killer's#
-4276#Crucial#
-4277#Dominatrix#
-4278#of Magical Immunity#
-4279#Soul Collector's#
-4280#Blessed#
-4281#Diligent#
-4282#of Reservoir#
-4283#Mana Sphere#
-4284#of Caress#
-4285#Elven-Enchanted#
-4286#Terrorizing#
-4287#Magically Shielded#
-4288#Maestro#
-4289#of Plant Soul Eater#
-4290#Mirror#
-4291#Deadly Kobold's#
-4292#Deadly Plant's#
-4293#of Chance#
-4294#Sneaky#
-4295#of Blackout#
-4296#Greedy#
-4297#Poaching#
-4298#of Mayhem#
-4299#Guardian's#
-4300#Venomous Charge#
-4301#Traumatic#
-4302#High Risk#
-4303#Mystic#
-4304#Shield Master's#
-4305#Explosive#
-4306#King's#
-4307#of Marine Soul Eater#
-4308#Power Draining#
-4309#Reinforced#
-4310#Fatally Evil#
-4311#Anti-Evil#
-4312#of the Soul#
-4313#Bogie#
-4314#Fire-Proof#
-4315#of Stone Curse#
-4316#of Angel Soul Eater#
-4317#Aural#
-4318#Storm-Bringer's#
-4319#Sword-Master's#
-4320#Meteoric#
-4321#Polymorphic#
-4322#of Retaliation#
-4323#of Frost#
-4324#Arctic#
-4325#Vicious#
-4326#Ocean Scented#
-4327#Spell Flow#
-4328#Hyper#
-4329#Soul Gain#
-4330#Curse Lift#
-4331#Evasion#
-4332#of Talent#
-4333#of Chaotic Venom#
-4334#Anti-Sniping#
-4335#Gnome#
-4336#of Vitality#
-4337#of Wildcat#
-4338#of Vital Switching#
-4339#of Stone Wall#
-4340#of Requiem#
-4341#Disarm#
-4342#Mammoth#
-4343#of Creator#
-4344#of Value#
-4345#Sylph#
-4346#of Power Switching#
-4347#Stamina#
-4348#Gangster#
-4349#Anti-Arrow#
-4350#Undine#
-4351#Low Level#
-4352#of Regeneration#
-4353#of Rejuvenation#
-4354#of Stability#
-4355#Healthy#
-4356#Magic Cancel#
-4357#of Fury#
-4358#Lost-Power#
-4359#of Shadow#
-4360#Assassin#
-4361#of Hollgrehenn#
-4362#Heat#
-4363#Protection#
-4364#of Magic Sealing#
-4365#of Tempest#
-4366#of Caster#
-4367#of Squeezing#
-4368#Rapid#
-4369#of Luck Switching#
-4370#Weakening#
-4371#of Paladin#
-4372#Life Stream#
-4373#Cursed#
-4374#of Vision#
-4375#Extra High Level#
-4376#Manful#
-4377#Sweetie#
-4378#Low Level#
-4379#Low Level#
-4380#Salamander#
-4381#of Wanderer#
-4382#of Scholar#
-4383#Chaotic#
-4384#Magic Eater#
-4385#Drink#
-4386#of Magic Shelter#
-4387#of Agility Switching#
-4388#Soul#
+4003#Resistente#
+4004#Expediente#
+4005#Celestial#
+4006#Talismã#
+4007#Espectral#
+4008#Extraforte#
+4009#Leves#
+4010#Sagaz#
+4011#Eficaz#
+4012#Tenaz#
+4013#Excelente#
+4014#da Disciplina#
+4015#do Vento#
+4016#Veloz#
+4017#Estonteante#
+4018#Consciente#
+4019#Tonificante#
+4020#Cegante#
+4021#Hábil#
+4022#do Vigor#
+4023#Mental#
+4024#Nocauteante#
+4025#Fatal#
+4026#Acelerante#
+4027#Ágil#
+4028#do Lutador#
+4029#Feroz#
+4030#Lunar#
+4031#de Ares#
+4032#de Atena#
+4033#Desintoxicante#
+4034#Pontual#
+4035#Capital#
+4036#Possante#
+4037#Inoculante#
+4038#Saudáveis#
+4039#do Filósofo#
+4040#de Teleporte#
+4041#do Insone#
+4042#do Defensor#
+4043#Excepcional#
+4044#do Esconderijo#
+4045#Resiliente#
+4046#do Clérigo#
+4047#Intagível#
+4048#de Veneno#
+4049#Inflamável#
+4050#de Hermes#
+4051#Lábil#
+4052#Brilhante#
+4053#de Cura#
+4054#Celeste#
+4055#Congelante#
+4056#da Tempestade#
+4057#Silenciante#
+4058#de Prometeu#
+4059#de Hera#
+4060#Bestial#
+4061#Imortal#
+4062#Neutralizante#
+4063#Imunizante#
+4064#Integral#
+4065#Fundamental#
+4066#de Artemis#
+4067#Energizante#
+4068#Termal#
+4069#Desidratante#
+4070#de Wicca#
+4071#dos Anjos#
+4072#Indestrutível#
+4073#do Vendedor#
+4074#de Urtiga#
+4075#Hipnotizante#
+4076#Amaldiçoante#
+4077#de Concentração#
+4078#de Regeneração#
+4079#Descomunal#
+4080#Estival#
+4081#da Montanha#
+4082#Gigante#
+4083#de Alga#
+4084#da Explosão#
+4085#Abissal#
+4086#Letal#
+4087#do Juiz#
+4088#do Ilusionista#
+4089#de Poseidon#
+4090#Escarlate#
+4091#de Contra-ataque#
+4092#Primordial#
+4093#Medicinal#
+4094#Ciclonal#
+4095#do Oceano#
+4096#Feral#
+4097#Verdes#
+4098#de Zefir#
+4099#de Hefestus#
+4100#de Fada#
+4101#de Gaia#
+4102#de Loki#
+4103#Clarividente#
+4104#Caotizante#
+4105#Anti-congelante#
+4106#Ancestral#
+4107#Essenciais#
+4108#da Nascente#
+4109#do Deserto#
+4110#da Vacina#
+4111#Exorcisante#
+4112#do Arauto#
+4113#da Alma#
+4114#de Apolo#
+4115#Cabal#
+4116#da Luz#
+4117#do Duelista#
+4118#Nobre#
+4119#do Mal#
+4120#do Dragão#
+4121#Magistral#
+4122#do Sentinela#
+4123#de Heimdall#
+4124#de Perseu#
+4125#Hibernal#
+4126#Colossal#
+4127#do Vigilante#
+4128#do Escaravelho#
+4129#da Noite#
+4130#Solar#
+4131#Fugazes#
+4132#de Jóias#
+4133#de Balder#
+4134#Espiritual#
+4135#de Espelhos#
+4136#do Inferno#
+4137#do Infinito#
+4138#do Paraíso#
+4139#do Luar#
+4140#Rebelde#
+4141#de Hades#
+4142#da Fúria#
+4143#do Herói#
+4144#da Eternidade#
+4145#do Ventríloquo#
+4146#de Reflexão#
+4147#do Ceifeiro#
+4148#do Místico#
+4149#do Céu Limpo#
+4150#da Resistência à Magia#
+4151#do Destruidor da Natureza#
+4152#Suculenta#
+4153#de Câncer#
+4154#Aromático#
+4155#Goblin Fatal#
+4156#Chama Fatal#
+4157#Fuminante#
+4158#da Chacina#
+4159#do Nível Alto#
+4160#do Nível Alto#
+4161#Contra Magia#
+4162#do Cego#
+4163#Selvagem#
+4164#do Pescador#
+4165#do Inseto Sugador#
+4166#do Azar#
+4167#Bestiano#
+4168#da perdição#
+4169#do mestre encantador#
+4170#do endurecimento#
+4171#Drenador de Almas#
+4172#Cortante#
+4173#do Hipnotismo#
+4174#Maravilhoso#
+4175#Empurrador#
+4176#Serpente Fatal#
+4177#da Pedra Verde#
+4178#do Mestre Arqueiro#
+4179#da Luz Intensa#
+4180#Draconiano#
+4181#do Silêncio Mortal#
+4182#Demoníaco#
+4183#do Lobisomem#
+4184#da Parada#
+4185#da Sabedoria#
+4186#Musculoso#
+4187#da Noite Brilhante#
+4188#da Pedra Vermelha#
+4189#da Miséria#
+4190#do Animador#
+4191#da Linha da Vida#
+4192#dos Peixes Fatais#
+4193#da Paciência#
+4194#do Atordoamento#
+4195#da Pedra Azul#
+4196#do Jellopy#
+4197#do Sortudo#
+4198#da Mira Verdadeira#
+4199#do Encontrão#
+4200#da Resistência à Poder Mágico#
+4201#Múltiplo Atordoamento#
+4202#Exorcismo#
+4203#Flamejante#
+4204#do Ganhador#
+4205#do Cubo Azul#
+4206#Cúbico#
+4207#Contra o Menor#
+4208#da Energia Plena#
+4209#da Rachadura#
+4210#Pressão#
+4211#do Especialista#
+4212#do Empurrão#
+4213#do Silêncio#
+4214#Canibal#
+4215#do Alimento#
+4216#do Sopro Gelado#
+4217#Auto Cura#
+4218#do Pesadelo#
+4219#da Pedra Mágica#
+4220#Fiel#
+4221#do Colecionador de Insetos#
+4222#do Sono#
+4223#Resistente ao Atordoamento#
+4224#do Dia Chuvoso#
+4225#Atirador#
+4226#Nível Alto#
+4227#do Cheiro de Carne#
+4228#do Dia#
+4229#Veloz#
+4230#do Covarde#
+4231#Encontrão#
+4232#Refrescante#
+4233#Sorte do Petit#
+4234#do Espelho Inoxidável#
+4235#do Anjo Corrupto#
+4236#da Proteção#
+4237#da Ira dos Deuses#
+4238#do Poder Duplo#
+4239#do Caçador Veterano#
+4240#da Resistência à Magia#
+4241#Duplo 7 Sortudo#
+4242#Nível Alto#
+4243#da Escapada#
+4244#do Seguidor#
+4245#do Assassino#
+4246#Morte#
+4247#Peixe-Estrela#
+4248#Cruz Brilhante#
+4249#do Exorcista#
+4250#Contra Grandes#
+4251#Invasão#
+4252#do Trevo de 4 Folhas#
+4253#da Guarda Real#
+4254#Contra Médios#
+4255#Esmagador#
+4256#Desejado#
+4257#Alado#
+4258#Inteligência Melhorada#
+4259#da Natureza#
+4260#Protetor Contra Confusão#
+4261#Protetor Contra Cegueira#
+4262#do Dia Nublado#
+4263#Desejo Sangrento#
+4264#Relâmpago#
+4265#do Alvorecer#
+4266#Resistência Mágica#
+4267#do Caçador de Dragões#
+4268#Extensor#
+4269#do Pesadelo#
+4270#do Veneno#
+4271#da Pedra Amarela#
+4272#Veloz#
+4273#Concha#
+4274#Morto-Vivo Sugador#
+4275#do Morto-Vivo Matador#
+4276#Crise#
+4277#do Mestre Atirador#
+4278#da Resistência à Magia#
+4279#do Colecionador de Almas#
+4280#da Benção Grandiosa#
+4281#Trabalhador#
+4282#da Poção#
+4283#Lança de Mana#
+4284#Toque Suave#
+4285#Conjurado por Elfo#
+4286#do Pânico#
+4287#da Resistência à Magia#
+4288#Nível Alto#
+4289#Planta Sugadora#
+4290#Reflexo#
+4291#Kobold Fatal#
+4292#Planta Fatal#
+4293#Chance#
+4294#do Astuto#
+4295#do Apagão#
+4296#Cobiça#
+4297#Certeiro#
+4298#do Caos#
+4299#Guardião#
+4300#da Carga Venenosa#
+4301#do Sangramento#
+4302#do Alto Risco#
+4303#Místico#
+4304#do Mestre Escudeiro#
+4305#Explosão#
+4306#do Rei#
+4307#Força-Aquática Ganha#
+4308#da Drenagem de Força#
+4309#Cobertura Rígida#
+4310#da Maldade Fatal#
+4311#Contra Poder Maligno#
+4312#da Alma#
+4313#do Pântano#
+4314#da Guarda Flamejante#
+4315#da Pedra Amaldiçoada#
+4316#Ganho da Alma Angelical#
+4317#Aura#
+4318#Causador de Tempestade#
+4319#do Mestre Espadachim#
+4320#Luz do Meteoro#
+4321#do Polimorfo#
+4322#do Contra-Ataque#
+4323#Congelante#
+4324#do Ártico#
+4325#da Dureza#
+4326#do Cheiro de Peixe#
+4327#do Fluxo Mágico#
+4328#do Hiper#
+4329#do Ganho da Alma#
+4330#do Imune a Maldição#
+4331#da Evasão#
+4332#de Hermod#
+4333#de Jormungard#
+4334#do Antiatirador#
+4335#do Gnomo#
+4336#da Vitalidade#
+4337#da Agressão#
+4338#da Troca de Vitalidade#
+4339#da Muralha#
+4340#de Hel#
+4341#do Desarmamento#
+4342#do Mamute#
+4343#de Frigga#
+4344#da Refeição#
+4345#da Sílfide#
+4346#da Troca de Força#
+4347#do Pescador#
+4348#de Fenrir#
+4349#Antiflecha#
+4350#da Ondina#
+4351#da Baixa Esquiva#
+4352#da Juventude#
+4353#da Yggdrasil#
+4354#da Estabilidade#
+4355#do Açougueiro#
+4356#da Autoridade#
+4357#do Frenesi#
+4358#da Apatia#
+4359#das Sombras#
+4360#do Mercenário#
+4361#do Hollgrehenn#
+4362#do Acerto#
+4363#do Arcanjo#
+4364#do Selo Mágico#
+4365#da Tormenta#
+4366#da Conjuração#
+4367#da Pressão#
+4368#Rápido#
+4369#da Troca de Sorte#
+4370#do Enfraquecimento#
+4371#de Forseti#
+4372#da Medicina#
+4373#da Maldição#
+4374#da Visão#
+4375#do Nível Elevado#
+4376#da Magia Plena#
+4377#da Sobremesa#
+4378#da Baixa Força#
+4379#da Baixa Magia#
+4380#da Salamandra#
+4381#de Bragi#
+4382#de Mímir#
+4383#do Caos#
+4384#do Tormento#
+4385#da Bebida#
+4386#do Abrigo Mágico#
+4387#da Troca de Agilidade#
+4388#da Alma#
 4389#Elemental#
-4390#Blooding#
-4391#Snack#
-4392#of Dexterity Switching#
-4393#of Intelligence Switching#
-4394#Divine Cross#
-4395#Slug#
-4396#Dull#
-4397#Stupidity#
-4398#Darkness#
-4399#Penetration#
-4400#of Temptation#
-4401#Swift#
-4402#Strange#
-4403#of Reload#
-4404#of Chaotic Bleeding#
-4405#of Magic Mirror#
-4406#Twinkle#
-4407#of Elimination#
-4408#Abyss#
-4409#Panic#
-4410#Madness#
-4411#Arta's#
-4412#Aria#
-4413#Resistance#
-4414#Gorgon's#
-4415#Sweet#
-4416#of Grain#
-4417#of Flow#
-4418#of Hail#
-4419#Jack Frost#
-4420#of Comfort#
-4421#of Chinook#
-4422#Breeze#
-4423#of Sharkia#
-4424#Stony#
-4425#Beast#
-4426#Exceeding#
-4427#of Force#
-4428#of Shaft#
-4429#Nessus's#
-4430#of Inferno#
-4431#Stygian#
-4432#Scorching#
-4433#of Ignis#
-4434#Miner's#
-4435#Outrageous#
-4436#Lunatic#
-4437#Rabid#
-4438#Mental#
-4439#of Anathema#
-4440#of Ignoring#
-4441#Arrogant#
-4442#of Basis#
-4443#of Underneath#
-4444#of Saharic#
-4445#of Windy#
-4447#of Envenom#
-4448#of Damned#
-4449#of Hallowed#
-4450#Surplus#
-4451#of Excess#
-4452#Magical#
-4453#Fierce#
-
-4454#Alchemy#
-4455#Love#
-
-// - Episode 14.1 Cards - \\
-4456#Spell Master#
-4457#Psychic#
-4458#of Illusion#
-4459#of Fast#
-4460#of Healing#
-4461#of Sharp#
-4462#Prime Defense#
-4463#Prime Attack#
-4464#Fatal#
-4465#Sweeping#
-4466#Straight Shooting#
-4467#Heavy#
-4468#Polution#
-4469#Marine#
-4470#Botany#
-4471#Draco#
-4472#Carnivore#
-4473#Undead#
+4390#do Sangramento#
+4391#do Lanche#
+4392#da Troca de Destreza#
+4393#da Troca de Inteligência#
+4394#da Punição Divina#
+4395#do Verme#
+4396#do Entorpecer#
+4397#da Amnésia#
+4398#da Escuridão#
+4399#do Impacto#
+4400#da Tentação#
+4401#da Esquiva#
+4402#da Escolha#
+4403#da Recarga#
+4404#da Hemorragia#
+4405#do Reflexo#
+4406#Cintilante#
+4407#de Freya#
+4408#do Abissal#
+4409#da Histeria#
+4410#da Demência#
+4411#de Arta#
+4412#de Aria#
+4413#da Resistência#
+4414#da Górgona#
+4415#Gentil#
+4416#de Yana#
+4417#de Flaw#
+4418#de Hail#
+4419#do Jack Frost#
+4420#do Conforto#
+4421#do Chinook#
+4422#da Maresia#
+4423#de Sharia#
+4424#de Pedra#
+4425#Bestial#
+4426#da Excelência#
+4427#do Poder#
+4428#do Feixe#
+4429#do Nessus#
+4430#Infernal#
+4431#Ínfera#
+4432#Vulcanizada#
+4433#de Ignis#
+4434#do Mineiro#
+4435#do Ultraje#
+4436#do Lunático#
+4437#do Fanático#
+4438#Intelectual#
+4439#do Maldito#
+4440#da Indiferença#
+4441#do Arrogante#
+4442#da Terra Furiosa#
+4443#do Gelo Perfurante#
+4444#do Fogo Eterno#
+4445#do Vento Uivante#
+4447#do Envenenamento#
+4448#do Amaldiçoado#
+4449#do Abençoado#
+4450#do Mestre Feiticeiro#
+4451#do Axis#
+4452#do Feiticeiro#
+4453#da Violência#
+4454#Ceifadeiro#
+4455#Feya#
+4456#do Arcano#
+4457#Pisíquica#
+4458#da Ilusão#
+4459#do Conjurador#
+4460#do Curandeiro#
+4461#da Forma#
+4462#da Defesa Prima#
+4463#do Ataque Primo#
+4464#do Ataque Crítico#
+4465#da Espada Leve#
+4466#do Tiro Preciso#
+4467#Pesado#
+4468#Hera Venenosa#
+4469#Antipeixe#
+4470#Antibotanica#
+4471#Antidragão#
+4472#Antifera#
+4473#Antizumbi#
 4474#Mortal#
-4475#Intangible#
-4476#Entomic#
-4477#Demonic#
-
-4480#Of Halfreload#
-4481#Half Jack Frost#
-4482#Of Half regeneration#
-4483#Half Spiritual#
-4484#Of Half Gemstone#
-4485#Half Abyss#
-4991#Carefree#
-4998#of Valor#
-4999#of Aegis#
+4475#Antidisforme#
+4476#Anti-inseto#
+4477#Antidemoniaca#
+4480#da Recarga Selada#
+4481#do Jack Frost Selado#
+4482#da Juventude Selada#
+4483#Espiritual Selada#
+4484#de Jóias Seladas#
+4485#do Abissal Selado#
+4491#da Pressão Selada#
+4498#da Magia Plena Selada#
+4499#Desejo Sangrento Selado#
 
 //-------New Monster Cards 
-4505#of Mad Witch#
-4506#of Archer#
+4505#da Bruxa Má#
+4506#do Arqueiro#
 4507#Scaraba#
-4508#of Mad Berserker#
-4509#Insectproof#
-4510#Black-out#
+4508#do Enlouquecido#
+4509#Contra Insetos#
+4510#do Blecaute#
 4511#Silentium#
-4512#of Acolyte#
-4513#of Thief#
-4514#Exorcism#
+4512#do Noviço#
+4513#do Gatuno#
+4514#Exorcista#
 4515#Flora#
-4516#of Stone wall#
-4517#of Magician#
-4518#Burning#
+4516#da Parede de Pedra#
+4517#do Mago#
+4518#em Chamas#
 4519#Seraphim#
-4520#Screaming#
-4521#Mortal Blow#
-4522#Cold#
+4520#do Grito#
+4521#do Sopro Mortal#
+4522#de Gelo#
 4523#Aquarius#
-4524#of Swordman#
-4525#Sweeping#
-4526#of Magic Defense#
-4527#of Defense#
-4528#Of mental strength#
-4529#Strength#
-4530#of Merchant#
-4531#Under Curse#
-4532#Sprinting#
-4533#Blinding#
-4534#Water Bomb#
+4524#do Espadachim#
+4525#da Furtividade#
+4526#da Defesa Mágica#
+4527#da Defesa Física#
+4528#do Espírito#
+4529#do Físico#
+4530#do Mercador#
+4531#das Maldições#
+4532#da Corrida#
+4533#da Cegueira#
+4534#da Bomba D'Água#
 4493#Half High Risk#
 
 
