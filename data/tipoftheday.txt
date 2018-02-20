@@ -1,10 +1,10 @@
-¡÷/savechat  :  save the contents of the chat window
+¡÷/savechat  :  Use esse comando para salvar o texto de sua conversa do chat.
 #
-¡÷Hold the ctrl key and press the * key to toggle the minimap between opaque and semi-transparent 
+¡÷Segure a tecla CTRL e aperte * para definir a transparência do mini mapa. 
 #
-¡÷Hold the shift key and drag with the right mouse button to adjust the viewing angle. To restore the original angle, hold the shift key and double-click the right mouse button 
+¡÷Segure a tecla SHIFT e movimente o mouse com o botão direito pressionado para ajustar o ângulo de visualização. Para retornar a posição normal, basta segurar a tecla SHIFT e dar um clique duplo no botão direito do mouse. 
 #
-¡÷Hold the ctrl key and drag with the right mouse button to zoom in and out. To restore the original zoom, hold the ctrl key and double click the right mouse button. The mouse wheel can also be used to zoom in and out
+¡÷Segure a tecla CTRL e movimente o mouse, com o botão direito pressionado, para cima e para baixo ativando assim o zoom da câmera. Para retornar a posição normal de zoom, basta segurar a tecla CTRL e dar um clique duplo com o botão direito do mouse. Os mouses com botão rotativo no centro, acionam automaticamente o zoom da câmera.
 #
 ¡÷When you move the mouse cursor over monsters, it will change to a sword and you can then attack
 #
